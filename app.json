@@ -1,6 +1,6 @@
 {
-    "name": "Amalser_v2",
-    "description": "Amalser_v2 is the Modified Version of WhatsAsena, Made By @farhan-dqz with Baileys.",
+    "name": "Adp_Bot",
+    "description": "ADp_Botis the Modified Version of WhatsAsena, Made By @farhan-dqz with Baileys.",
     "logo": "https://i.imgur.com/yCYYyEJ.jpeg",
     "keywords": ["whatsapp", "userbot", "julie", "WhatsAsena", "mwol", "bot", "ai"],
     "repository": "https://github.com/cyberchekuthan/Amalser_v2",
@@ -123,10 +123,10 @@
         "BOT_NAME": {
             "description": "heading for .list command reply",
             "required": false,
-            "value": "•━━━━╼⤏Amalser⤎╾━━━•"
+            "value": "•━━━━╼⤏Adp_Bot⤎╾━━━•"
         },
         "WORK_TYPE": {
-            "description": "Amalser Working Type. If you use “public”, everyone can use the bot. Else if you use “private”, only you can use your bot.",
+            "description": "ADp Working Type. If you use “public”, everyone can use the bot. Else if you use “private”, only you can use your bot.",
             "required": true,
             "value": "public"
         },
