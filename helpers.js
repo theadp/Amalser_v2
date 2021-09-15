@@ -17,13 +17,13 @@
 */
 
 function successfullMessage(msg) {
-    return "✅ *Amalser*:  ```" + msg + "```"
+    return "✅ *Adp Bot*:  ```" + msg + "```"
 }
 function errorMessage(msg) {
-    return "🛑 *Amalser*:  ```" + msg + "```"
+    return "🛑 *Adp Bot*:  ```" + msg + "```"
 }
 function infoMessage(msg) {
-    return "⏺️ *Amalser*:  ```" + msg + "```"
+    return "⏺️ *Adp Botr*:  ```" + msg + "```"
 }
 
 
